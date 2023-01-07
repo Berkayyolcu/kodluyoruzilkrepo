@@ -6,3 +6,5 @@
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
 git clone [(https://github.com/Berkayyolcu/kodluyoruzilkrepo)] [kopyalanacağı yol]
 
+
+git clone [url] [kopyalanacağı yol]
