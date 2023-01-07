@@ -9,4 +9,4 @@
 https://github.com/Berkayyolcu/kodluyoruzilkrepo
 
 
-git clone [[https://github.com/Berkayyolcu/kodluyoruzilkrepo]] [[https://github.com/Berkayyolcu/kodluyoruzilkrepo]]
+
