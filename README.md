@@ -4,9 +4,9 @@
 
 <img src="https://github.com/Berkayyolcu/kodluyoruzilkrepo/blob/main/image/kodluyoruz%20ilk%20repo.PNG" width="auto">
 
-# Installation
+## Installation
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
-git clone [()] [kopyalanacağı yol]
+https://github.com/Berkayyolcu/kodluyoruzilkrepo
 
 
 git clone [[https://github.com/Berkayyolcu/kodluyoruzilkrepo]] [[https://github.com/Berkayyolcu/kodluyoruzilkrepo]]
