@@ -4,4 +4,5 @@
 
 #Installation
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
-https://github.com/Berkayyolcu/kodluyoruzilkrepo
+git clone [url] [[kopyalanacağı yol](https://github.com/Berkayyolcu/kodluyoruzilkrepo)]
+
