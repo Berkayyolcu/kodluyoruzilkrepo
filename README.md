@@ -7,4 +7,4 @@
 git clone [()] [kopyalanacağı yol]
 
 
-git clone [[url](https://github.com/Berkayyolcu/kodluyoruzilkrepo)] [[kopyalanacağı yol](https://github.com/Berkayyolcu/kodluyoruzilkrepo)]
+git clone [(https://github.com/Berkayyolcu/kodluyoruzilkrepo)] [(https://github.com/Berkayyolcu/kodluyoruzilkrepo)]
