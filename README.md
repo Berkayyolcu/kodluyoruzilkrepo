@@ -7,7 +7,7 @@
 ## Installation
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
 
-```bash 
+```
 git clone https://github.com/Berkayyolcu/kodluyoruzilkrepo
 ```
 
