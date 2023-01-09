@@ -7,7 +7,7 @@
 ## Installation
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
 
-
+``` clone
 git clone https://github.com/Berkayyolcu/kodluyoruzilkrepo
 ```
 
@@ -15,6 +15,7 @@ git clone https://github.com/Berkayyolcu/kodluyoruzilkrepo
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 <br>
 Linux için:
+
 ```linux
 cd kodluyoruzilkrepo
 code .
@@ -22,6 +23,7 @@ code .
 
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
